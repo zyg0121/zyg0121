@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zyg0121
 - 👀 I’m interested in Full-Stack Web Development, Machine Learning and so on.
-- 🌱 I’m currently studying Software Engineering,and I can code with 
+- 🌱 I’m currently studying Software Engineering,and I work at the office of information as a assistant intern in my school.
 - 📫 You can to reach me by https://www.hiyiguo.cn/message.html, Capable of conversations with Chinese and English.
 
 <!---
